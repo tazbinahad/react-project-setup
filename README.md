@@ -1,1 +1,4 @@
 ###### React Environment
+*sh
+yarn
+*
